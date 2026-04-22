@@ -1,32 +1,7 @@
 {
   "addons": {
-    "{20d52ac3-3719-4334-b5b9-5d450c015776}": {
-      "updates": [
-        {
-          "version": "1.7.2.3",
-          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.2.3/ktool-1.7.2.3.xpi"
-        },
-        {
-          "version": "1.7.2.11",
-          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.2.11/ktool-firefox-v1.7.2.11.xpi"
-        },
-        {
-          "version": "1.7.2.12",
-          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.2.12/ktool-firefox-v1.7.2.12.xpi"
-        },
-        {
-          "version": "1.7.2.13",
-          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.2.13/ktool-firefox-v1.7.2.13.xpi"
-        },
-        {
-          "version": "1.7.2.15",
-          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.2.15/ktool-firefox-v1.7.2.15.xpi"
-        },
-        {
-          "version": "1.7.2.16",
-          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.2.16/ktool-firefox-v1.7.2.16.xpi"
-        }
-      ]
+    "{2fb6baad-43c0-4fbc-b64e-2695862e750c}": {
+      "updates": []
     }
   }
 }
