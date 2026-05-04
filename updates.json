@@ -1,7 +1,12 @@
 {
   "addons": {
     "{2fb6baad-43c0-4fbc-b64e-2695862e750c}": {
-      "updates": []
+      "updates": [
+        {
+          "version": "1.7.4.2",
+          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.4.2/ktool-firefox-v1.7.4.2.xpi"
+        }
+      ]
     }
   }
 }
