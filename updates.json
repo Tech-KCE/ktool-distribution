@@ -5,6 +5,10 @@
         {
           "version": "1.7.4.2",
           "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.4.2/ktool-firefox-v1.7.4.2.xpi"
+        },
+        {
+          "version": "1.7.5.0",
+          "update_link": "https://github.com/Tech-KCE/ktool-distribution/releases/download/v1.7.5.0/ktool-firefox-v1.7.5.0.xpi"
         }
       ]
     }
